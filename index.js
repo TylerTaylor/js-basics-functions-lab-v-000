@@ -32,3 +32,7 @@
 //         return 'cannot travel that far';
 //     }
 // }
+
+function distanceFromHqInBlocks(block) {
+  
+}
